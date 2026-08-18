@@ -92,7 +92,7 @@ body {
 .bg-glow-2 {
     width: 600px;
     height: 600px;
-    background: radial-gradient(circle, rgba(168, 85, 247, 0.14) 0%, rgba(168, 85, 247, 0) 70%);
+    background: radial-gradient(circle, rgba(168, 85, 257, 0.14) 0%, rgba(168, 85, 247, 0) 70%);
     top: 30%;
     right: -150px;
 }
